@@ -2,3 +2,4 @@
 *.sublime-workspace
 *.xlsx
 *.idea
+__pycache__/*
